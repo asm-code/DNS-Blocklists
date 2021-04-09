@@ -5,6 +5,7 @@ diagnostics.meethue.com
 cluster-web.meethue.com
 ws.meethue.com
 dcp.dc1.philips.com
+www.philips-hue.com
 www.ecdinterface.philips.com
 brands.lighting.philips.com.edgekey.net
 test.huedatastore.com
