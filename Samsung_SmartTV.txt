@@ -89,6 +89,7 @@ rd.samsungadhub.com
 samsungadhub.com
 samsungads.com
 gamespromotion.samsungcloudsolution.com
+selfsigned.ueiwsp.com
 #auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
 #cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
