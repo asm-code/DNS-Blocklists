@@ -2,11 +2,16 @@
 # Update Stand: 01.04.2021
 
 diagnostics.meethue.com
+diag.meethue.com
 cluster-web.meethue.com
 ws.meethue.com
+data.meethue.com
+provision.meethue.com
 dcp.dc1.philips.com
+fds.dc1.philips.com
 www.ecdinterface.philips.com
 brands.lighting.philips.com.edgekey.net
 test.huedatastore.com
 dc1-elb-52-1014907170.eu-west-1.elb.amazonaws.com
 dc1-elb-60-1305627412.eu-west-1.elb.amazonaws.com
+mqtt.2030.ltsapis.goog
